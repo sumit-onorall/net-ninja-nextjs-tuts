@@ -13,3 +13,4 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
+// #7 custom 404 page

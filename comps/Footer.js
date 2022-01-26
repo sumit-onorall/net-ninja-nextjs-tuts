@@ -1,11 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-   return (
-      <div>
-         <h4>Copyright 2022 </h4>
-      </div>
-   );
+   return <footer>Copyright 2022</footer>;
 };
 
 export default Footer;
